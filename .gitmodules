@@ -1,6 +1,6 @@
 [submodule "external/de-proto-trainable"]
-	path = external/de-proto-trainable
+	path = de-proto-trainable
 	url = https://github.com/and-kirill/de-proto-trainable.git
 [submodule "external/ldpc-for-flash-memory"]
-	path = external/ldpc-for-flash-memory
+	path = ldpc-for-flash-memory
 	url = https://github.com/FuIluha/ldpc-for-flash-memory.git

@@ -1,1 +1,9 @@
-/Материал/
+/Materials/
+/ldpc_protograph/ldpc_de_bsc/data/
+/ldpc_protograph/ldpc_de_bec/data/
+/ldpc_protograph/ldpc_de_err_era_channel/data/
+/ldpc_protograph/ldpc_de_bec/analysis.ipynb
+
+__pycache__/
+*.py[cod]
+.venv/

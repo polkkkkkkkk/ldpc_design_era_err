@@ -1,8 +1,8 @@
 /Materials/
-/ldpc_protograph/ldpc_de_bsc/data/
-/ldpc_protograph/ldpc_de_bec/data/
-/ldpc_protograph/ldpc_de_err_era_channel/data/
 /ldpc_protograph/ldpc_de_bec/analysis.ipynb
+
+/ldpc_protograph/*/data/*
+!/ldpc_protograph/*/data/.gitkeep
 
 __pycache__/
 *.py[cod]
